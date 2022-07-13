@@ -15,6 +15,7 @@ function App() {
     }
     
     getEmployees()
+    
   }, [])
 
   const fetchEmployees = async() => {
